@@ -1,4 +1,4 @@
-*Este soy yo,*
+*Este soy yo, Pitufo de Ana Polo*
 * 👋 Hola, me llamo @ManuelDiazNoval
 * 👀 Me gusta la informatica, la ciberseguridad y los videojuegos
 * 🌱 Estoy estudiando **_Administración de sistemas y redes_**
