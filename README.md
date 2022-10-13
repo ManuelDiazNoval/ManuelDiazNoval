@@ -5,8 +5,10 @@ Este soy yo,
 * 💞️ :)
 * 📫 Contacto: manueldiaznoval2004@gmail.com
 * -I like this song: [GitHub](https://www.youtube.com/watch?v=E7ry2WxH3Z0)
+
 Como dijo Camaron:
 >“La pureza no se puede perder nunca cuando uno la lleva dentro de verdad”
+>"La ilusión de la vida es un momento, que si no se aprovechan, mi alma, son sufrimientos."
 
 ![GitHub Logo](https://yt3.ggpht.com/ytc/AMLnZu_LhbRflmT2YexRSpfPwOuNbGBJPa4kO-cGqP2EIsQ=s900-c-k-c0x00ffffff-no-rj)
 
