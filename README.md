@@ -1,4 +1,4 @@
-Este soy yo,
+*Este soy yo,*
 * 👋 Hola, me llamo @ManuelDiazNoval
 * 👀 Me interesa aprobar
 * 🌱 Estoy estudiando **_Administración de sistemas y redes_**
