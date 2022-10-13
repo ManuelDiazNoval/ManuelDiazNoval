@@ -2,7 +2,6 @@
 * 👋 Hola, me llamo @ManuelDiazNoval
 * 👀 Me interesa aprobar
 * 🌱 Estoy estudiando **_Administración de sistemas y redes_**
-* 💞️ :)
 * 📫 Contacto: manueldiaznoval2004@gmail.com
 * Himno de españa: [SoyGitano](https://www.youtube.com/watch?v=1LO0ac6ynGs)
 
