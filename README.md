@@ -3,7 +3,7 @@
 * 👀 Me gusta la informatica, la ciberseguridad y los videojuegos
 * 🌱 Estoy estudiando **_Administración de sistemas y redes_**
 * 📫 Contacto: manueldiaznoval2004@gmail.com
-* Himno de españa: [SoyGitano](https://www.youtube.com/watch?v=1LO0ac6ynGs)
+* ❤️💛❤️ Himno de españa: [SoyGitano](https://www.youtube.com/watch?v=1LO0ac6ynGs)
 
 **💃🏽Como dijo Camaron💃🏽**
 >“La pureza no se puede perder nunca cuando uno la lleva dentro de verdad”
