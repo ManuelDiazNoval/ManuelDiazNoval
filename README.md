@@ -1,9 +1,9 @@
-*Este soy yo
-- 👋 Hola, soy @ManuelDiazNoval
-- 👀 Me interesan los videojuegos
-- 🌱 Estoy estudiando **_Administración de sistemas y redes_**
-- 💞️ :)
-- 📫 Contacto: manueldiaznoval2004@gmail.com
+Este soy yo
+* 👋 Hola, soy @ManuelDiazNoval
+* 👀 Me interesan los videojuegos
+* 🌱 Estoy estudiando **_Administración de sistemas y redes_**
+* 💞️ :)
+* 📫 Contacto: manueldiaznoval2004@gmail.com
 
 
 <!---
