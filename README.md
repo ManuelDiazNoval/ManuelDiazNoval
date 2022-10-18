@@ -1,7 +1,7 @@
 *Este soy yo, Pitufo de Ana Polo*
 * 👋 Me llamo Manuel Díaz Noval
 * 👀 Me gusta la informatica, la ciberseguridad y los videojuegos
-* 🌱 Estoy estudiando **_Administración de sistemas y redes_**
+* 🌱 Estoy estudiando _Administración de sistemas y redes_
 * 📫 Contacto: mdiazn04@educantabria.es
 * ❤️💛❤️ Himno de españa: [SoyGitano](https://www.youtube.com/watch?v=1LO0ac6ynGs)
 
